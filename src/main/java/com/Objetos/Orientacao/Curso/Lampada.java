@@ -2,10 +2,10 @@ package com.Objetos.Orientacao.Curso;
 
 public class Lampada {
 
-    String marca;
-    String modelo;
-    double preco;
-    double frequencia; // consumo de energia
+    public String marca;
+    public String modelo;
+    public double preco;
+    public double frequencia; // consumo de energia
 }
 public class TesteLampada {
 
