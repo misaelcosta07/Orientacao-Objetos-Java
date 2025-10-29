@@ -1,4 +1,4 @@
-package OrientacaoObjetos;
+package com.Objetos.Orientacao.Curso;
 
 
 public class Main {
