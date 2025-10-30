@@ -1,6 +1,6 @@
 package com.Objetos.Orientacao.Curso;
 
-public class CanetasInstancia {
+public class Canetas{
 
     public static void main(String[] args){
 
@@ -9,8 +9,5 @@ public class CanetasInstancia {
         c1.cor = "Azul";
         c1.ponta = 0.5;
         c1.tampada = false;
-
-
-
     }
 }

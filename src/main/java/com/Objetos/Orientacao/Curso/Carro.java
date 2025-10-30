@@ -9,5 +9,9 @@ public class Carro {
     double conscombustivel;  // consumo de combutivel por KM/H
 
 
+    void exibirautonomia(){
+
+        System.out.println("A autonomia do carro é:" + capcombustivel * conscombustivel + "KM/h");
+    }
 }
 
