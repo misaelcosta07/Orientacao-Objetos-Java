@@ -1,4 +1,4 @@
-package com.Objetos.Orientacao.Curso;
+package com.Objetos.Orientacao.Curso.ClassesMetodos;
 
 public class LivroDeBiblioteca {
     public static void main(String[] args) {

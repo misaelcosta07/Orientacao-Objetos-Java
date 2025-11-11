@@ -1,4 +1,4 @@
-package com.Objetos.Orientacao.Curso;
+package com.Objetos.Orientacao.Curso.ClassesMetodos;
 
 public class ContatoAgenda {
     public static void main(String[] args) {

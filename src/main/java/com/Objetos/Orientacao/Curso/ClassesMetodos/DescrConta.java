@@ -1,6 +1,4 @@
-package com.Objetos.Orientacao.Curso;
-
-import java.sql.SQLOutput;
+package com.Objetos.Orientacao.Curso.ClassesMetodos;
 
 public class DescrConta {
 

@@ -1,4 +1,4 @@
-package com.Objetos.Orientacao.Curso;
+package com.Objetos.Orientacao.Curso.ClassesMetodos;
 
 public class Lampada {
 
@@ -8,3 +8,5 @@ public class Lampada {
     public String consumo;
     public double preco;
 }
+
+
