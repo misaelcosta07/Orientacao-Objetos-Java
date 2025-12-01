@@ -14,11 +14,14 @@ public class Serie {
         this.episodios = episodios;
     }
 
+    public Serie() {
+    }
+
     // metodos especificos
     // toString();
+    @Override
     public String toString(){
-        String info = String.format("Nome da serie: %s \n Temporadas: %d \n Episódios: %d");
-
+        String  info = String.format("Nome: %s\nTemporadas: %d\nEp: %d ", name, temporadas, episodios);
         return info;
     }
 

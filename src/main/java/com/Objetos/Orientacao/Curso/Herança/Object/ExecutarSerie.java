@@ -5,10 +5,15 @@ public class ExecutarSerie {
     public static void main(String[] args) {
 
         Serie serie = new Serie("String thinks", 5, 38);
+        Desenho desenho = new Desenho("looney tones", 4, 50);
 
-        // resultado padrao
-        System.out.println(serie.toString());
-
+        // sobrepor o metodo toString
+        System.out.println("Descriçao serie");
         System.out.println(serie);
+
+        System.out.println("Descriçao desenho");
+        System.out.println(desenho);
+
+
     }
 }
